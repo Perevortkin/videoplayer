@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/pause.png</file>
+        <file>assets/play.png</file>
+        <file>assets/original.svg</file>
+        <file>assets/scale.svg</file>
+    </qresource>
+</RCC>
